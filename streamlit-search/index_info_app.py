@@ -4,6 +4,12 @@ import datetime
 from io import BytesIO
 import pandas as pd
 from elastic_api import search_index, search_index_with_date_range
+import logging
+from streamlit.logger import get_logger # logger 
+
+logger = get_logger(__name__)
+file_handler=logging.FileHandler("app_log.log", encoding='utf-8')
+logger.addHandler(file_handler)
 
 st.title("엘라스틱서치에 저장된 인덱스 조회") 
 st.markdown(
@@ -25,6 +31,7 @@ clicked2 = st.sidebar.button("생성일 확인")
 
 
 if(clicked1 == True):
+    logger.info(f"User searched - index_name: {index_name}, field_name: {field_name}, match_name: {match_name}")
     result = search_index(index_name, field_name, match_name)     
     # st.write(result.to_dict())
     st.write(result.to_dict()["hits"]["hits"])
