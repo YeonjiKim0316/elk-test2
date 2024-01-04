@@ -1,55 +1,61 @@
-2024-01-02 16:30:39.356 Uncaught app exception
-Traceback (most recent call last):
-  File "C:\ProgramData\anaconda3\envs\es\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 534, in _run_script
-    exec(code, module.__dict__)
-  File "C:\ITStudy\03_ELK\python-elk\streamlit-search\index_info_app.py", line 11, in <module>
-    file_handler=logging.FileHandler(encoding='utf-8')
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: FileHandler.__init__() missing 1 required positional argument: 'filename'
-2024-01-02 16:30:39.356 Uncaught app exception
-Traceback (most recent call last):
-  File "C:\ProgramData\anaconda3\envs\es\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 534, in _run_script
-    exec(code, module.__dict__)
-  File "C:\ITStudy\03_ELK\python-elk\streamlit-search\index_info_app.py", line 11, in <module>
-    file_handler=logging.FileHandler(encoding='utf-8')
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: FileHandler.__init__() missing 1 required positional argument: 'filename'
-2024-01-02 16:30:39.357 Uncaught app exception
-Traceback (most recent call last):
-  File "C:\ProgramData\anaconda3\envs\es\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 534, in _run_script
-    exec(code, module.__dict__)
-  File "C:\ITStudy\03_ELK\python-elk\streamlit-search\index_info_app.py", line 11, in <module>
-    file_handler=logging.FileHandler(encoding='utf-8')
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: FileHandler.__init__() missing 1 required positional argument: 'filename'
-2024-01-02 16:30:39.358 Uncaught app exception
-Traceback (most recent call last):
-  File "C:\ProgramData\anaconda3\envs\es\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 534, in _run_script
-    exec(code, module.__dict__)
-  File "C:\ITStudy\03_ELK\python-elk\streamlit-search\index_info_app.py", line 11, in <module>
-    file_handler=logging.FileHandler(encoding='utf-8')
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: FileHandler.__init__() missing 1 required positional argument: 'filename'
-2024-01-02 16:30:40.309 Uncaught app exception
-Traceback (most recent call last):
-  File "C:\ProgramData\anaconda3\envs\es\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 534, in _run_script
-    exec(code, module.__dict__)
-  File "C:\ITStudy\03_ELK\python-elk\streamlit-search\index_info_app.py", line 11, in <module>
-    file_handler=logging.FileHandler(encoding='utf-8')
-                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-TypeError: FileHandler.__init__() missing 1 required positional argument: 'filename'
-^CUser searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
 User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
 User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
-User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 회사명, match_name: 삼성전자, NAVER
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 장비
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설
+User searched - index_name: stock_info, field_name: 업종, 주요제품, match_name: 통신, 건설

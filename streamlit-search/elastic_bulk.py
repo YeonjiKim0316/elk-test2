@@ -19,7 +19,6 @@ json_records = json.loads(json_str)
 
 es = Elasticsearch("http://localhost:9200", http_compress=True)
 index_name = 'stock_info'
-doctype = 'stock_record'
 es.indices.delete(index=index_name, ignore=[400, 404])
 es.indices.create(index=index_name, ignore=400)
 action_list = []
