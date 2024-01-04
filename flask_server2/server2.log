@@ -4,62 +4,16 @@ Press CTRL+C to quit
  * Restarting with watchdog (windowsapi)
  * Debugger is active!
  * Debugger PIN: 988-363-283
-127.0.0.1 - - [04/Jan/2024 16:09:29] "GET /bye HTTP/1.1" 200 -
-127.0.0.1 - - [04/Jan/2024 17:06:06] "GET /hello HTTP/1.1" 200 -
-127.0.0.1 - - [04/Jan/2024 17:06:32] "GET / HTTP/1.1" 404 -
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\IPython\\display.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\IPython\\core\\display_functions.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\IPython\\lib\\display.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\IPython\\core\\display.py', reloading
- * Restarting with watchdog (windowsapi)
- * Debugger is active!
- * Debugger PIN: 988-363-283
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\__init__.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\logger.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\delta_generator.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\alert.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\balloons.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\bokeh_chart.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\button.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\camera_input.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\chat.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\checkbox.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\code.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\color_picker.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\empty.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\exception.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\file_uploader.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\form.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\graphviz_chart.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\heading.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\doc_string.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\iframe.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\image.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\layouts.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\markdown.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\map.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\media.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\metric.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\multiselect.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\widgets\\number_input.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\plotly_chart.py', reloading
- * Restarting with watchdog (windowsapi)
- * Debugger is active!
- * Debugger PIN: 988-363-283
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\runtime\\metrics_util.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\cursor.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\type_util.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\runtime\\state\\__init__.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\runtime\\state\\common.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\pyarrow\\__init__.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\lib\\column_config_utils.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\site-packages\\streamlit\\elements\\lib\\column_types.py', reloading
- * Detected change in 'C:\\ProgramData\\anaconda3\\envs\\es\\Lib\\io.py', reloading
- * Restarting with watchdog (windowsapi)
- * Debugger is active!
- * Debugger PIN: 988-363-283
-127.0.0.1 - - [04/Jan/2024 17:25:27] "GET /bye HTTP/1.1" 200 -
-127.0.0.1 - - [04/Jan/2024 17:25:35] "GET /bye HTTP/1.1" 200 -
-127.0.0.1 - - [04/Jan/2024 17:26:07] "GET / HTTP/1.1" 404 -
-127.0.0.1 - - [04/Jan/2024 17:29:01] "GET / HTTP/1.1" 404 -
-127.0.0.1 - - [04/Jan/2024 17:29:13] "GET /hello HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 19:35:31] "GET /bye HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 19:35:34] "GET / HTTP/1.1" 404 -
+127.0.0.1 - - [04/Jan/2024 19:35:35] "GET /hello HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 19:35:40] "GET /hi HTTP/1.1" 404 -
+127.0.0.1 - - [04/Jan/2024 19:37:27] "GET /bye HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 20:11:25] "GET /bye HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 20:19:23] "GET /hello HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 20:19:54] "GET /bye HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 20:23:19] "GET / HTTP/1.1" 404 -
+127.0.0.1 - - [04/Jan/2024 20:23:19] "GET / HTTP/1.1" 404 -
+127.0.0.1 - - [04/Jan/2024 20:23:22] "GET /hello HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 20:23:24] "GET /hello HTTP/1.1" 200 -
+127.0.0.1 - - [04/Jan/2024 20:34:23] "GET /bye HTTP/1.1" 200 -
